@@ -53,8 +53,8 @@ As part of the Code Platoon DevOps team, the objective was to deploy Twoge on AW
    - Simulated high traffic using a Python-based stress test.
    - Demonstrated ASG functionality by scaling instances up and down.
 
-![Stress test](twoge-assessment/images/Screenshot%202024-12-26%20at%209.45.49%20PM.png)
-![CPU](twoge-assessment/images/Screenshot%202024-12-26%20at%209.47.55%20PM.png)
+
+![Terminal Screenshot](images/terminal.png)
 
 
 ---
