@@ -57,6 +57,11 @@ As part of the Code Platoon DevOps team, the objective was to deploy Twoge on AW
 ![Terminal Screenshot](images/terminal.png)
 
 
+
+![CPU Utilization Screenshot](images/CPU.png)
+
+
+
 ---
 
 ## Architecture Diagram
