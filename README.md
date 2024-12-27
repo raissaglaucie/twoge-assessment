@@ -57,6 +57,9 @@ As part of the Code Platoon DevOps team, the objective was to deploy Twoge on AW
 
 ## Architecture Diagram
 
+![Twoge Screenshot](images/Screenshot%202024-12-26%20at%207.54.28%E2%80%AFPM.png)
+
+
 The architecture includes:
 
 - **VPC:** A secure VPC with public subnets in 2 availability zones.
