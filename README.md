@@ -100,7 +100,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Configure environment variables
-echo "SQLALCHEMY_DATABASE_URI=postgresql://raissa:root017803@raissa-twoge-database.cvyw6igek2bp.us-east-1.rds.amazonaws.com:5432/twoge" >> .env
+echo "SQLALCHEMY_DATABASE_URI=postgresql://raissa:yourpassword@raissa-twoge-database.aws-url/twoge" >> .env
 
 # Start application
 nohup venv/bin/gunicorn --bind 0.0.0.0:8080 app:app > app.log 2>&1 &
